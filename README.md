@@ -1,4 +1,6 @@
-# 🟪🟪👩‍💻Atcharee Nimmansethakul's Data Analyst Portfolio👩‍💻🟪🟪 
+# 🟪🟪👩‍💻Hi There, I am Atcharee Nimmansethakul👩‍💻🟪🟪 
+
+## 📊 Data Analyst Portfolio
 
 ### [Portfolio Overview](https://atchareen.github.io/data-analyst-atcharee/)
 Welcome to my data analyst portfolio! Here, you’ll find the work I have done throughout my semester at University Canada West. This portfolio highlights the skills I’ve developed, projects I’ve worked on, and how data analysis can be used to optimize processes and uncover valuable insights.
@@ -15,7 +17,7 @@ The following skills were developed throughout my semester and are showcased in 
 - **Database Management**: SQL
 - **Machine Learning**: Regression, Classification Algorithms
 
-## 🚀 Projects 🚀
+## 🎯 Projects 
 
 ### 🟢 Project 1: Class Weekly Activity
 The goal of this project is to analyze datasets and improve data quality using AWS Services, Specifically, the project focuses on performing descriptive analysis of operational datasets, such as UCW policies data, to explore the ER Diagram, The resources of AWS services, reason to support my implementation.
