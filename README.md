@@ -1,6 +1,6 @@
 # Atcharee Nimmansethakul's Data Analyst Portfolio
 
-### [Portfolio Overview](https://atchareen.github.io/)
+### [Portfolio Overview](https://atchareen.github.io/data-analyst-atcharee/)
 Welcome to my data analyst portfolio! Here, you’ll find the work I have done throughout my semester at University Canada West. This portfolio highlights the skills I’ve developed, projects I’ve worked on, and how data analysis can be used to optimize processes and uncover valuable insights.
 
 ## Description
