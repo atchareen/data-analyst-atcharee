@@ -1,4 +1,5 @@
-# 🟪🟪👩‍💻Hi There, I am Atcharee Nimmansethakul👩‍💻🟪🟪 
+# 👉🏻 Hi There
+# 🟪🟪👩‍💻 I am Atcharee Nimmansethakul👩‍💻🟪🟪 
 
 ## 📊 Data Analyst Portfolio
 
