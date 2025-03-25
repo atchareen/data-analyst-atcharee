@@ -1,44 +1,59 @@
-# 👉🏻 Hi There
-# 🟪🟪👩‍💻 I am Atcharee Nimmansethakul👩‍💻🟪🟪 
+# Descriptive Analysis of Operational Dataset of UCW's Policies Using AWS Services
 
-## 📊 Data Analyst Portfolio
+## Project Description
+This project seeks to explore and enhance operational data quality through a comprehensive analysis of the UCW policies dataset. By leveraging powerful AWS services, the primary aim is to conduct a detailed descriptive analysis, focusing on exploring the Entity-Relationship (ER) diagram and the operational intricacies. Using AWS resources such as S3, Glue, DataBrew, and CloudWatch, the project optimizes data storage, cleansing, profiling, and transformation processes to ensure seamless data insights. The strategic implementation of these services aims to streamline data workflows and generate valuable insights for business optimization.
 
-### [Portfolio Overview](https://atchareen.github.io/data-analyst-atcharee/)
-Welcome to my data analyst portfolio! Here, you’ll find the work I have done throughout my semester at University Canada West. This portfolio highlights the skills I’ve developed, projects I’ve worked on, and how data analysis can be used to optimize processes and uncover valuable insights.
+## Objective
+The objective of this project is to enhance operational data through efficient cleaning, transformation, and analysis using AWS services. Key challenges such as missing data, outlier detection, and data inconsistencies are addressed to refine data quality. Ultimately, the goal is to provide meaningful, actionable insights that support critical business decisions and improve operational efficiency.
 
-##  🔵 Description
-In this portfolio, you'll find various data analysis projects and their corresponding insights. The goal of this collection is to demonstrate my skills in data visualization, statistical analysis, data cleaning, and machine learning. Each project is accompanied by a detailed explanation of the methodologies used and the results I achieved.
+## Dataset
+The dataset consists of CSV files containing critical information such as University Name, Program ID, Student ID, Program Type, Enrolment ID, and Application ID. The data is stored securely in Amazon S3 and processed with AWS Glue DataBrew to perform necessary cleaning and transformations before being analyzed for business intelligence.
 
-##  🔵 Skills
-The following skills were developed throughout my semester and are showcased in this portfolio:
+## Methodology
 
-- **Data Visualization**: Tableau
-- **Data Cleaning & Preprocessing**: Python (Pandas), Excel
-- **Statistical Analysis**: Python (SciPy)
-- **Database Management**: SQL
-- **Machine Learning**: Regression, Classification Algorithms
+### 1. Data Ingestion
+The initial phase involves securely uploading data to Amazon S3, ensuring the storage solution offers both high durability and availability for effortless access and management.
 
-## 🎯 Projects 
+### 2. Data Profiling
+Utilizing AWS Glue DataBrew, the data undergoes a rigorous profiling process. This includes identifying missing values, inconsistencies, and detecting outliers within the dataset to ensure its integrity.
 
-### 🟢 Project 1: Class Weekly Activity
-The goal of this project is to analyze datasets and improve data quality using AWS Services, Specifically, the project focuses on performing descriptive analysis of operational datasets, such as UCW policies data, to explore the ER Diagram, The resources of AWS services, reason to support my implementation.
-I used AWS services, such as S3, Glue, DataBrew, CloudWatch to store, clean, identify the data profiling, and transform the data.
+### 3. Data Cleaning
+In this phase, missing values and data inconsistencies are resolved through imputation or removal techniques, ensuring a refined dataset that meets business requirements.
 
-[Link to Sales Data Analysis Repository](https://github.com/yourusername/sales-data-analysis)
+### 4. Data Transformation
+Following the cleaning phase, the data is transformed into a consistent format, facilitating smooth integration and further analysis, ensuring the dataset aligns with business needs.
 
-### 🟢 Project 2: Data Analytic Platform The city of Vancouver on Public Trees dataset
-This project focuses on designing and implementing a data analysis pipeline using AWS for the Public Trees dataset from the City of Vancouver. The goal is to allow quick analysis, provide insights into the trees' data, and ensure data security, governance, and monitoring using AWS services like Athena, S3, KMS, and CloudWatch.
+### 5. Data Summarization
+AWS Glue’s Visual ETL tool is used to summarize key data insights in a clear, concise manner. This process distills complex data into understandable, actionable insights for stakeholders.
 
-[Link to Customer Segmentation Repository](https://github.com/yourusername/customer-segmentation)
+## Tools and Technologies
 
+### 1. AWS S3
+Used for the secure and scalable storage of raw and processed datasets, ensuring reliable data accessibility.
 
-## ☎️ Contact
-Feel free to connect with me through the following:
-- **Email**: [atcharee.nimman@gmail.com](mailto:atcharee.nimman@gmail.com/)
-- **LinkedIn**: [Atcharee Nimmansethakul LinkedIn](https://www.linkedin.com/in/atcharee-nim/)
-- **GitHub**: [Atcharee Nimmansethakul GitHub](https://atchareen.github.io/data-analyst-atcharee/)
+### 2. AWS Glue
+This managed ETL (Extract, Transform, Load) service facilitates data cleaning, transformation, and cataloging, helping to streamline data workflows.
+
+### 3. AWS Glue DataBrew
+A no-code tool for data profiling and preparation, AWS Glue DataBrew empowers users to clean and transform datasets quickly with minimal technical knowledge required.
+
+### 4. AWS Lambda
+Employed to automate various data processing tasks, AWS Lambda ensures smooth and efficient execution of functions within the data pipeline.
+
+## Deliverables
+
+### 1. Cleaned and Transformed Dataset
+The project will deliver a fully cleaned and transformed dataset, primed for insightful analysis.
+
+### 2. Understanding of Data Analysis Process
+A comprehensive understanding of the data analysis process will be developed, with detailed documentation of the AWS resources and techniques used.
+
+### 3. Final Analysis Report
+A report will be generated, highlighting significant trends, patterns, and insights derived from the descriptive analysis of the dataset, tailored to provide valuable business intelligence.
+
+### 4. Visualizations for Stakeholders
+Interactive visualizations and dashboards will be created, offering clear insights and helping stakeholders understand key data trends and decision-making points.
 
 ---
 
-*Thank you for visiting my portfolio. I look forward to connecting with you!*
-
+*Thank you for visiting my project! For any questions, feel free to reach out via [email](mailto:your-email@example.com) or visit my [LinkedIn profile](https://www.linkedin.com/in/your-linkedin).*
