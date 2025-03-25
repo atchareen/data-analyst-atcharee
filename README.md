@@ -13,7 +13,7 @@ The dataset consists of CSV files containing critical information such as Univer
 
 ### 1. Data Ingestion
 The initial phase involves securely uploading data to Amazon S3, ensuring the storage solution offers both high durability and availability for effortless access and management.
-![Alt text](relative/path/to/image.png)
+![Alt text](images)
 
 ### 2. Data Profiling
 Utilizing AWS Glue DataBrew, the data undergoes a rigorous profiling process. This includes identifying missing values, inconsistencies, and detecting outliers within the dataset to ensure its integrity.
